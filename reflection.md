@@ -1,7 +1,7 @@
 # Reflection
 
-Student Name:  name
-Sudent Email:  email
+Student Name:  Gabrielle Russo
+Sudent Email:  grusso01@syr.edu
 
 ## Instructions
 
@@ -23,3 +23,4 @@ Examples:
 **Best Reflection** "I learned when to use while vs for loops. While loops are for sentiel-controlled values (waiting for a condition to occur), vs for loops are for iterating over collections of fixed values."
 
 `--- Reflection Below This Line ---`
+I reinforced my learning of how to use folium and geopandas to map geospatial data in Streamlit. I now understand how to turn coordinates into a GeoDataFrame and display them with a color scale using explore(). I struggled with customizing the markers. I’m not sure what all the marker_kwds options do. I want to practice adding popups or tooltips next to make the map more interactive the same way I did in 256.
